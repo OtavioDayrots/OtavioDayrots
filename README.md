@@ -16,6 +16,8 @@
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 *DevOps*
 
@@ -26,6 +28,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![DBeaver](https://img.shields.io/badge/DBeaver-333333?style=flat&logo=dbeaver&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-333333?style=flat&logo=mysql&logoColor=white)
+
 
 <br/>
 
