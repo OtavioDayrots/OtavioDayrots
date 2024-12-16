@@ -4,18 +4,17 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez por dia
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Generate Snake Graph
+      - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
