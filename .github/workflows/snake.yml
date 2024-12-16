@@ -17,5 +17,5 @@ jobs:
 
       - name: Generate Snake Graph
         uses: Platane/snk@v2
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
