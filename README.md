@@ -39,7 +39,7 @@
 ---
 
 ## 🐍 Contribuições
-![Snake animation](https://github.com/OtavioDayrots/OtavioDayrots/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/OtávioDayrots/OtávioDayrots/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
