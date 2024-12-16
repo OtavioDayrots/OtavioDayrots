@@ -37,6 +37,9 @@
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-José_Otávio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseotaviodayrots/)](https://www.linkedin.com/in/joseotaviodayrots/)
 [![Gmail Badge](https://img.shields.io/badge/-joseotavioalves321@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseotavioalves321@gmail.com)](mailto:joseotavioalves321@gmail.com)
+
+![Snake animation](https://github.com/OtavioDayrots/OtavioDayrots/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **OtavioDayrots/OtavioDayrots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
